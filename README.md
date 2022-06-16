@@ -1,2 +1,1 @@
-# health-trihard-7-project
-small project of a healthcare website. Not the greatest we've made...
+# sd20-kd5029-interactiondesign-trihard7
